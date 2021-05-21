@@ -3,7 +3,8 @@ a springboot demo of logback
 
 这是一个logback的springboot demo
 
-访问地址：
+访问地址：http://xionghao.top:9001/logError
+         http://xionghao.top:9001/logError
 
 
 上传本地代码到github
